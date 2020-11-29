@@ -1,3 +1,5 @@
+![Title Image](https://github.com/EfranH25/AWS-Cat-Dog-Image-Classifier/blob/main/Title%20Image.jpg)
+
 <br />
 <p align="center">
   <h3 align="center">AWS Cat Dog Image Classifier
