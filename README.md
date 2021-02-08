@@ -1,6 +1,8 @@
+# Cat Dog Machine Learning Image Classifier on AWS Platform
+
 <br />
 <p align="center">
-  <h3 align="center">AWS Cat Dog Image Classifier
+  <h3 align="center">Cat Dog Machine Learning Image Classifier on AWS Platform
 </h3>
 
   <p align="center">
